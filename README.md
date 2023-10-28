@@ -6,7 +6,7 @@
 
 - 🌱 Aprendendo sobre **API's**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo através:</h3>
 <p align="left">
 <a href="https://instagram.com/@lucas___lira_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lucas___lira_" height="30" width="40" /></a> <a href="https://linkedin.com/in/linkedin.com/in/lucas-lira-084b2a17a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/lucas-lira-084b2a17a" height="30" width="40" /></a>
 </p>
