@@ -8,7 +8,7 @@
 
 <h3 align="left">Conecte-se comigo através:</h3>
 <p align="left">
-<a href="https://www.instagram.com/lucas___lira_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lucas___lira_" height="30" width="40" /></a> <a href="https://linkedin.com/in/www.linkedin.com/in/lucas--lira-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lucas--lira-" height="30" width="40" /></a>
+<a href="https://www.instagram.com/lucas___lira_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lucas___lira_" height="30" width="40" /></a> <a href="https://linkedin.com/in/lucas--lira-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lucas--lira-" height="30" width="40" /></a>
 
 </p>
 
