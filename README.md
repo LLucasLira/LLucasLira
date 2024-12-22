@@ -1,4 +1,3 @@
-![MasterHead](https://cutewallpaper.org/22/not-wallpapers/250965269.jpg)
 <h1 align="center">Olá 👋, eu sou o Lira</h1>
 <h3 align="center">Apaixonado por músicas, livros, filmes e assuntos relacionados a tecnologia e investimentos. Gosto de passar meu tempo livre aplicando em conhecimentos e me atualizando com notícias que movimentam o mundo. </h3>
 
