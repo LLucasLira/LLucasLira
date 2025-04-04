@@ -8,7 +8,7 @@ Olá, sou o Lira, um **Data Analyst** apaixonado por dados e com uma vasta exper
 
 **Desenvolvimento de Aplicações Web:** Desenvolvi e implementei aplicações web para o departamento de Investimentos, utilizando C# e ASP.NET MVC para garantir uma arquitetura escalável e eficiente. Utilizei JavaScript para adicionar interatividade e dinamismo às interfaces, enquanto o SQL Server foi empregado para otimizar consultas e garantir a integridade dos dados.
 
-**Automação de Relatórios Gerenciais:** Trabalhei na criação e automação de relatórios gerenciais para fornecer insights valiosos e em tempo real aos gestores e stakeholders. Utilizando JavaScript e outras ferramentas de análise, esses relatórios contribuíram significativamente para a tomada de decisões estratégicas dentro do departamento de Investimentos.
+**Automação de Relatórios Gerenciais:** Trabalhei na criação e automação de relatórios gerenciais para fornecer insights valiosos e em tempo real aos gestores e stakeholders. Utilizando SqQL-Server, SAS, Databricks e outras ferramentas de análise, esses relatórios contribuíram significativamente para a tomada de decisões estratégicas dentro do departamento de Investimentos.
 
 **Participação em Projetos Multifuncionais:** Colaborei em diversos projetos multifuncionais, com ênfase em ETL (Extração, Transformação e Carga) e integração de dados entre diferentes sistemas.
 
